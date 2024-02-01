@@ -22,9 +22,9 @@
 
 ### 진행 완료된 작업
 
-- [ ]  KCI API key 발급
-- [ ]  KCI API 를 이용해 논문 정보 탐색 api testing
-- [ ]  Clarivate API key 신청,.. → 대기중
+- [x]  KCI API key 발급
+- [x]  KCI API 를 이용해 논문 정보 탐색 api testing
+- [x]  Clarivate API key 신청,.. → 대기중
 
 ### 추후 예정 계획
 
